@@ -1,0 +1,11 @@
+Una variable es un espacio donde podemos guardar datos que luego pueden reutilizarse. 
+Una Str es un tipo de dato que hace referencia a una cadena de caracteres de tipo alfabeticos 
+Una funcion es una porcion de codigo que sirve para automatizar y repetir procedimientos.
+Un argumento es un valor que se le envia a una funcion para que esta actue y devuelva un resultado luego de
+realizar un procedimiento. 
+Return sirve para frenar el procedimiento y devolver un resultado. 
+Las declaraciones if son estructuras condicionales que sirven para que nuestro codigo se ponga en acción si 
+se cumple la declaracion.
+Los valores booleanos son un tipo de elemento que representa a una respuesta binaria, es decir con dos opciones
+que normalmente representan verdadero o falso (true / false)
+
