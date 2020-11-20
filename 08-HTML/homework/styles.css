@@ -1,0 +1,38 @@
+
+ h1{
+    color: #2EAEE6;
+  }
+  
+  img{
+    width: 400px;
+  }
+  
+  #thirdDiv{
+    width: 500px;
+    heigth: 600px;
+    background-color:#FFADA4;
+    padding: 50px;
+    border: 2px solid black;
+  }
+  
+  #spanId{
+    font-size: 18px;
+    margin: 50px;
+  }
+  
+  #mainContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px;
+  }
+  
+  .divClass{
+   display:flex;
+   flex-direction:column;
+  }
+  
+  #vinculo{
+    margin: 10px;
+    align-self:center;
+  }
